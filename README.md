@@ -7,7 +7,6 @@
   Add path to System environment variable
 * Clone the repo
 * Install dependencies `mvn compile`
-* Update `*.conf.json` files inside the `src/test/resources/conf` directory with your [BrowserStack Username and Access Key] and [other capabilities]
 
 ## Running tests
 
